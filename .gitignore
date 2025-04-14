@@ -1,0 +1,9 @@
+# Data
+
+
+# Pycache
+__pycache__/
+.ipynb_checkpoints/
+
+# Logfile
+/logs
